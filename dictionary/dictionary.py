@@ -1,3 +1,12 @@
+#### FOUND dict.json online from
+#### https://github.com/matthewreagan/WebstersEnglishDictionary/blob/master/dictionary.json
+#### Licencing on the said page reads as below:
+#### The original dictionary text file is covered by The Gutenberg Project's licensing, 
+#### please see the file headers for more details. The Swift parsing tool and 
+#### example output files in this repository are free and distributed under 
+#### the GNU General Public License, Version 2.
+
+
 import pandas as pd
 import os
 import json
