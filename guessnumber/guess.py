@@ -10,6 +10,7 @@
 ### FOR EACH DIGIT MISPLACED -
 ### I.E. PLAYER TELLS COMPUTER 1 + 2 -
 ### FOR THE GUESS 3876 HINT WILL BE 2 + 
+#
 
 import random, copy, sys
 
